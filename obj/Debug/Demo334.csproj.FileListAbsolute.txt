@@ -1,0 +1,86 @@
+C:\Users\Administrator\source\repos\Demo334\bin\Debug\Demo334.exe.config
+C:\Users\Administrator\source\repos\Demo334\bin\Debug\Demo334.exe
+C:\Users\Administrator\source\repos\Demo334\bin\Debug\Demo334.pdb
+C:\Users\Administrator\source\repos\Demo334\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\Demo334\obj\Debug\Demo334_MarkupCompile.cache
+C:\Users\Administrator\source\repos\Demo334\obj\Debug\Demo334_MarkupCompile.lref
+C:\Users\Administrator\source\repos\Demo334\obj\Debug\Demo334.g.resources
+C:\Users\Administrator\source\repos\Demo334\obj\Debug\Demo334.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Demo334\obj\Debug\Demo334.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Demo334\obj\Debug\Demo334.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Demo334\obj\Debug\Demo334.exe
+C:\Users\Administrator\source\repos\Demo334\obj\Debug\Demo334.pdb
+C:\Users\Administrator\source\repos\Demo334\obj\Debug\Menu.g.cs
+C:\Users\Administrator\source\repos\Demo334\obj\Debug\Menu.baml
+C:\Users\Administrator\source\repos\Demo334\obj\Debug\Demo334_Content.g.cs
+C:\Users\Administrator\source\repos\Demo334\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\Demo334\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\Demo334\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\Demo334\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\Demo334\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Administrator\source\repos\Demo334\obj\Debug\Demo334.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Demo334\obj\Debug\App.baml
+C:\Users\Administrator\source\repos\Demo334\obj\Debug\Pages\PageInfo.g.cs
+C:\Users\Administrator\source\repos\Demo334\obj\Debug\Pages\PageInfo.baml
+C:\Users\Administrator\source\repos\Demo334\obj\Debug\Pages\PageAddMaterial.g.cs
+C:\Users\Administrator\source\repos\Demo334\obj\Debug\Pages\PageAddMaterial.baml
+C:\Users\Administrator\source\repos\Demo334\obj\Debug\Pages\PageInfoMaterial.g.cs
+C:\Users\Administrator\source\repos\Demo334\obj\Debug\Pages\PageInfoMaterial.baml
+C:\Users\Administrator\source\repos\Demo334\obj\Debug\Demo334.csprojAssemblyReference.cache
+C:\Users\студент.STD5\Desktop\Учет периферии\DemoExam-main\bin\Debug\Demo334.exe.config
+C:\Users\студент.STD5\Desktop\Учет периферии\DemoExam-main\bin\Debug\Demo334.exe
+C:\Users\студент.STD5\Desktop\Учет периферии\DemoExam-main\bin\Debug\Demo334.pdb
+C:\Users\студент.STD5\Desktop\Учет периферии\DemoExam-main\bin\Debug\EntityFramework.dll
+C:\Users\студент.STD5\Desktop\Учет периферии\DemoExam-main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\студент.STD5\Desktop\Учет периферии\DemoExam-main\bin\Debug\EntityFramework.xml
+C:\Users\студент.STD5\Desktop\Учет периферии\DemoExam-main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\студент.STD5\Desktop\Учет периферии\DemoExam-main\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\студент.STD5\Desktop\Учет периферии\DemoExam-main\obj\Debug\Demo334.csproj.AssemblyReference.cache
+C:\Users\студент.STD5\Desktop\Учет периферии\DemoExam-main\obj\Debug\Menu.g.cs
+C:\Users\студент.STD5\Desktop\Учет периферии\DemoExam-main\obj\Debug\Pages\PageAddMaterial.g.cs
+C:\Users\студент.STD5\Desktop\Учет периферии\DemoExam-main\obj\Debug\Pages\PageInfo.g.cs
+C:\Users\студент.STD5\Desktop\Учет периферии\DemoExam-main\obj\Debug\Pages\PageInfoMaterial.g.cs
+C:\Users\студент.STD5\Desktop\Учет периферии\DemoExam-main\obj\Debug\App.g.cs
+C:\Users\студент.STD5\Desktop\Учет периферии\DemoExam-main\obj\Debug\Demo334_Content.g.cs
+C:\Users\студент.STD5\Desktop\Учет периферии\DemoExam-main\obj\Debug\Demo334_MarkupCompile.cache
+C:\Users\студент.STD5\Desktop\Учет периферии\DemoExam-main\obj\Debug\Demo334_MarkupCompile.lref
+C:\Users\студент.STD5\Desktop\Учет периферии\DemoExam-main\obj\Debug\App.baml
+C:\Users\студент.STD5\Desktop\Учет периферии\DemoExam-main\obj\Debug\Menu.baml
+C:\Users\студент.STD5\Desktop\Учет периферии\DemoExam-main\obj\Debug\Pages\PageAddMaterial.baml
+C:\Users\студент.STD5\Desktop\Учет периферии\DemoExam-main\obj\Debug\Pages\PageInfo.baml
+C:\Users\студент.STD5\Desktop\Учет периферии\DemoExam-main\obj\Debug\Pages\PageInfoMaterial.baml
+C:\Users\студент.STD5\Desktop\Учет периферии\DemoExam-main\obj\Debug\Demo334.g.resources
+C:\Users\студент.STD5\Desktop\Учет периферии\DemoExam-main\obj\Debug\Demo334.Properties.Resources.resources
+C:\Users\студент.STD5\Desktop\Учет периферии\DemoExam-main\obj\Debug\Demo334.csproj.GenerateResource.cache
+C:\Users\студент.STD5\Desktop\Учет периферии\DemoExam-main\obj\Debug\Demo334.csproj.CoreCompileInputs.cache
+C:\Users\студент.STD5\Desktop\Учет периферии\DemoExam-main\obj\Debug\Demo334.csproj.CopyComplete
+C:\Users\студент.STD5\Desktop\Учет периферии\DemoExam-main\obj\Debug\Demo334.exe
+C:\Users\студент.STD5\Desktop\Учет периферии\DemoExam-main\obj\Debug\Demo334.pdb
+C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\bin\Debug\Demo334.exe.config
+C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\bin\Debug\Demo334.exe
+C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\bin\Debug\Demo334.pdb
+C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\bin\Debug\EntityFramework.dll
+C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\bin\Debug\EntityFramework.xml
+C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\obj\Debug\Menu.g.cs
+C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\obj\Debug\Pages\PageAddMaterial.g.cs
+C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\obj\Debug\Pages\PageInfo.g.cs
+C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\obj\Debug\Pages\PageInfoMaterial.g.cs
+C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\obj\Debug\App.g.cs
+C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\obj\Debug\Demo334_Content.g.cs
+C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\obj\Debug\Demo334_MarkupCompile.cache
+C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\obj\Debug\Demo334_MarkupCompile.lref
+C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\obj\Debug\App.baml
+C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\obj\Debug\Menu.baml
+C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\obj\Debug\Pages\PageAddMaterial.baml
+C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\obj\Debug\Pages\PageInfo.baml
+C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\obj\Debug\Pages\PageInfoMaterial.baml
+C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\obj\Debug\Demo334.g.resources
+C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\obj\Debug\Demo334.Properties.Resources.resources
+C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\obj\Debug\Demo334.csproj.GenerateResource.cache
+C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\obj\Debug\Demo334.csproj.CoreCompileInputs.cache
+C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\obj\Debug\Demo334.csproj.CopyComplete
+C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\obj\Debug\Demo334.exe
+C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\obj\Debug\Demo334.pdb
