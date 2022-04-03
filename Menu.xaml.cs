@@ -35,7 +35,7 @@ namespace Demo334
 
         private void BtnBack_Click(object sender, RoutedEventArgs e)
         {
-            FrameWind.frmMain.Navigate(new Menu());
+            FrameWind.frmMain.GoBack();
         }
     } 
 }

@@ -13,8 +13,9 @@
         </Grid.RowDefinitions>
         <StackPanel Grid.Row="0" Background="#FEA9AB" Orientation="Horizontal">
             <Image Source=".//Resources/Черновик.png" Margin="10"/>
-            <Button x:Name="BtnBack" Width="150" Height="30" FontSize = "17" Foreground="White" Background="#EAB14D" Margin="650 0 0 0 "  FontFamily="Segoe Print" Click="BtnBack_Click">Назад</Button>
-
+            <StackPanel Orientation="Horizontal"  Margin="1000 0 0 0">
+                <Button x:Name="BtnBack" FontSize = "17" Foreground="White" HorizontalAlignment="Right" Background="#EAB14D" Width="120" Height="50" FontFamily="Segoe Print" Click="BtnBack_Click" Content="Назад"/>
+            </StackPanel>
         </StackPanel >
 
         <StackPanel Grid.Row="1" VerticalAlignment="Center">

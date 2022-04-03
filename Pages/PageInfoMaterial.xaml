@@ -12,7 +12,6 @@
         <ListBox FontSize="20" x:Name="mat" Height="580" Width="1150" Margin="0,68,0,43" BorderBrush="Black">
             <ListBox.ItemTemplate>
                 <DataTemplate>
-
                     <StackPanel Orientation="Horizontal">
                         <Image Name="img" VerticalAlignment="Center" HorizontalAlignment="Left" Width="120" Height="120">
                             <Image.Source>
@@ -32,23 +31,33 @@
                                 <TextBlock Text="{Binding Unit}" FontFamily="Segoe Print"/>
                             </StackPanel>
                             <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Колличестов в упаковке: " FontFamily="Segoe Print"/>
+                                <TextBlock Text="{Binding CountInStock}" FontFamily="Segoe Print"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
                                 <TextBlock Text="Поставщики: " FontFamily="Segoe Print"/>
                                 <TextBlock Text="{Binding ID}" FontFamily="Segoe Print"/>
                             </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Комментарий: " FontFamily="Segoe Print"/>
+                                <TextBlock Text="{Binding Description}" FontFamily="Segoe Print"/>
+                            </StackPanel>
                             <StackPanel Orientation="Horizontal" >
-                                <Button Content="Изменить" FontFamily="Segoe Print"/>
+                                <Button Content="Изменить" FontFamily="Segoe Print" Name="BtnEddit" Click="BtnEddit_Click" />
                             </StackPanel>
                         </StackPanel>
                         <StackPanel Margin="300, 0, 0, 0" Orientation="Horizontal">
-                            <TextBlock Text="Остаток: " FontFamily="Segoe Print"/>
-                            <TextBlock Text="{Binding CountInStock}" FontFamily="Segoe Print"/>
+                            <TextBlock Text="На складе: " FontFamily="Segoe Print"/>
+                            <TextBlock Text="{Binding CountInPack}" FontFamily="Segoe Print"/>
                         </StackPanel>
 
                     </StackPanel>
                 </DataTemplate>
             </ListBox.ItemTemplate>
         </ListBox>
-        
+        <StackPanel Orientation="Horizontal" Height="60" VerticalAlignment="Top" Margin="0,4,0,0">
+        <TextBox x:Name="teBox"  FontSize="30" Width="520" Margin="60,5,0,0" BorderBrush="Black"  PreviewTextInput="teBox_PreviewTextInput" />
+        </StackPanel>
         <TextBlock Name="one" HorizontalAlignment="Right" VerticalAlignment="Bottom" Height="25" Width="24" FontSize="20" TextAlignment="Center" Text="1" Margin="0,0,180,13" MouseLeftButtonDown="SelPg"/>
         <TextBlock x:Name="two" HorizontalAlignment="Right" VerticalAlignment="Bottom" Height="25" Width="24" FontSize="20" TextAlignment="Center" Text="2" Margin="0,0,151,13" MouseLeftButtonDown="SelPg"/>
         <TextBlock x:Name="three" HorizontalAlignment="Right" VerticalAlignment="Bottom" Height="25" Width="24" FontSize="20" TextAlignment="Center" Text="3" Margin="0,0,122,13" MouseLeftButtonDown="SelPg"/>

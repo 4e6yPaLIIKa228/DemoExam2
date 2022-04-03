@@ -5,7 +5,7 @@
              StartupUri="Menu.xaml">
     <Application.Resources>
         <Style TargetType="Button" x:Key="mainBtn">
-            <Setter Property="Width" Value="250"/>
+            <Setter Property="Width" Value="300"/>
             <Setter Property="Height" Value="35"/>
             <Setter Property="Margin" Value="5"/>
             <Setter Property="FontFamily" Value="Segoe Print"/>
@@ -15,7 +15,7 @@
         </Style>
         
         <Style TargetType="TextBlock" x:Key="mainTextb">
-            <Setter Property="Width" Value="250"/>
+            <Setter Property="Width" Value="300"/>
             <Setter Property="Height" Value="35"/>
             <Setter Property="Margin" Value="5"/>
             <Setter Property="FontFamily" Value="Segoe Print"/>
@@ -24,7 +24,7 @@
         </Style>
         
         <Style TargetType="TextBox" x:Key="mainTextBox">
-            <Setter Property="Width" Value="250"/>
+            <Setter Property="Width" Value="300"/>
             <Setter Property="Height" Value="35"/>
             <Setter Property="Margin" Value="5"/>
             <Setter Property="FontFamily" Value="Segoe Print"/>
@@ -34,7 +34,7 @@
         </Style>
 
         <Style TargetType="ComboBox" x:Key="mainComBox">
-        <Setter Property="Width" Value="200"/>
+            <Setter Property="Width" Value="300"/>
         <Setter Property="Height" Value="35"/>
         <Setter Property="Margin" Value="5"/>
         <Setter Property="FontFamily" Value="Segoe Print"/>

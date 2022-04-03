@@ -32,12 +32,12 @@ namespace Demo334.Pages
             UpdateData();
 
             Load();
+            Update();
 
             //DispatcherTimer timer = new DispatcherTimer();
             //timer.Interval = TimeSpan.FromSeconds(1);
             //timer.Tick += UpdateData;
             //timer.Start();
-
         }
 
         void Load()
@@ -46,8 +46,8 @@ namespace Demo334.Pages
             List<Material> nList = new List<Material>();
 
             int k = no;
-            list = db.Material.ToList();
-            nList = new List<Material>(list.GetRange(k * 15 - 14, 15));
+            list = Connect.conn.Material.ToList();
+            nList = new List<Material>(list.GetRange(k * 16 - 15, 15));
             mat.ItemsSource = nList;
 
 
@@ -56,6 +56,14 @@ namespace Demo334.Pages
             //if (nList.Count > k * 15 - 14) mat.ItemsSource = nList;
             //else mat.ItemsSource = list.GetRange(k * 15 - 14, nList.Count);
 
+        }
+
+        void Update()
+        {
+            if (Connect.udateinfo == 1)
+            {
+                Load();
+            }
         }
         private void Bwd(object sender, MouseButtonEventArgs e)
         {
@@ -109,14 +117,21 @@ namespace Demo334.Pages
 
         public void UpdateData()
         {
-            var AllMaterials = Connect.conn.Material.ToList();
-           // ListMaterial.ItemsSource = AllMaterials;
-            //ListMaterial.ItemsSource = Connect.conn.Material.Where(x => x.Title.StartsWith(TxtSearch.Text) || x.Description.StartsWith(TxtSearch.Text)).ToList();
+            //var AllMaterials = Connect.conn.Material.ToList();
+            //mat.ItemsSource = AllMaterials;
+            //mat.ItemsSource = Connect.conn.Material.Where(x => x.Title.StartsWith(teBox.Text) || x.Description.StartsWith(teBox.Text)).ToList();
         }
 
-        private void TxtSearch_PreviewTextInput(object sender, TextCompositionEventArgs e)
+        private void teBox_PreviewTextInput(object sender, TextCompositionEventArgs e)
         {
-           // ListMaterial.ItemsSource = Connect.conn.Material.Where(x => x.Title.StartsWith(TxtSearch.Text) || x.Description.StartsWith(TxtSearch.Text)).ToList();
+            mat.ItemsSource = db.Material.Where(x => x.Title.StartsWith(teBox.Text) || x.Description.StartsWith(teBox.Text)).ToList();
+        }
+
+        private void BtnEddit_Click(object sender, RoutedEventArgs e)
+        {
+            FrameWind.frmMain.Navigate(new PageEditMaterial((sender as Button).DataContext as Material));
+            Load();
         }
     }
 }
+ 

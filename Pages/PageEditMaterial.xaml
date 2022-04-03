@@ -1,0 +1,55 @@
+﻿<Page x:Class="Demo334.Pages.PageEditMaterial"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Demo334.Pages"
+      mc:Ignorable="d" 
+  d:DesignHeight="550" d:DesignWidth="800" Background="White"
+      Title="PageEditMaterial">
+
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Vertical">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock  Text="Название:" Style="{StaticResource mainTextb}"/>
+                <TextBox x:Name="TxbTitle"  Style="{StaticResource mainTextBox}"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Тип материала:" Style="{StaticResource mainTextb}"/>
+                <ComboBox x:Name="CmbMat" Style="{StaticResource mainComBox}"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Изображение" Style="{StaticResource mainTextb}"/>
+                <TextBox x:Name="TxbImg"   Style="{StaticResource mainTextBox}"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Стоимость:" Style="{StaticResource mainTextb}"/>
+                <TextBox x:Name="TxbCount"   Style="{StaticResource mainTextBox}"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Колличестов на складе:" Style="{StaticResource mainTextb}"/>
+                <TextBox x:Name="TxbCountInPack"   Style="{StaticResource mainTextBox}"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Минимальное колличество" Style="{StaticResource mainTextb}"/>
+                <TextBox x:Name="TxbMinColl"   Style="{StaticResource mainTextBox}"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Количестов в упаковке" Style="{StaticResource mainTextb}"/>
+                <TextBox x:Name="TxbInYpacobka"   Style="{StaticResource mainTextBox}"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Измерение" Style="{StaticResource mainTextb}"/>
+                <TextBox x:Name="TxbUnit"   Style="{StaticResource mainTextBox}"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Комментарий" Style="{StaticResource mainTextb}"/>
+                <TextBox x:Name="TxbComment"  Style="{StaticResource mainTextBox}"/>
+            </StackPanel>
+
+            <Button x:Name="BtnSave" Style="{StaticResource mainBtn}" Content="Сохранить" Margin="10" Click="BtnSave_Click" />
+
+
+        </StackPanel>
+    </Grid>
+</Page>

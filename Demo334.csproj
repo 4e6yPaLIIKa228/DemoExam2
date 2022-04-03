@@ -76,6 +76,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="Pages\PageEditMaterial.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Pages\PageInfo.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -145,11 +149,15 @@
       <DependentUpon>Model2.tt</DependentUpon>
     </Compile>
     <Compile Include="FrameWind.cs" />
+    <Compile Include="MaterialObject.cs" />
     <Compile Include="Menu.xaml.cs">
       <DependentUpon>Menu.xaml</DependentUpon>
     </Compile>
     <Compile Include="Pages\PageAddMaterial.xaml.cs">
       <DependentUpon>PageAddMaterial.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PageEditMaterial.xaml.cs">
+      <DependentUpon>PageEditMaterial.xaml</DependentUpon>
     </Compile>
     <Compile Include="Pages\PageInfo.xaml.cs">
       <DependentUpon>PageInfo.xaml</DependentUpon>

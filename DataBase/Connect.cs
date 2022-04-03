@@ -10,5 +10,6 @@ namespace Demo334.DataBase
 
     {
         public static MaterialsShop conn;
+        public static int udateinfo = 0;
     }
 }

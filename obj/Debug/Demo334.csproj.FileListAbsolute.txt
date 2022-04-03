@@ -84,3 +84,34 @@ C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\ob
 C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\obj\Debug\Demo334.csproj.CopyComplete
 C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\obj\Debug\Demo334.exe
 C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\obj\Debug\Demo334.pdb
+C:\Users\Administrator\source\repos\DemoExam2-main\bin\Debug\Demo334.exe.config
+C:\Users\Administrator\source\repos\DemoExam2-main\bin\Debug\Demo334.exe
+C:\Users\Administrator\source\repos\DemoExam2-main\bin\Debug\Demo334.pdb
+C:\Users\Administrator\source\repos\DemoExam2-main\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\DemoExam2-main\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\DemoExam2-main\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\DemoExam2-main\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\DemoExam2-main\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Administrator\source\repos\DemoExam2-main\obj\Debug\Menu.g.cs
+C:\Users\Administrator\source\repos\DemoExam2-main\obj\Debug\Pages\PageAddMaterial.g.cs
+C:\Users\Administrator\source\repos\DemoExam2-main\obj\Debug\Pages\PageInfo.g.cs
+C:\Users\Administrator\source\repos\DemoExam2-main\obj\Debug\Pages\PageInfoMaterial.g.cs
+C:\Users\Administrator\source\repos\DemoExam2-main\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\DemoExam2-main\obj\Debug\Demo334_Content.g.cs
+C:\Users\Administrator\source\repos\DemoExam2-main\obj\Debug\Demo334_MarkupCompile.cache
+C:\Users\Administrator\source\repos\DemoExam2-main\obj\Debug\Demo334_MarkupCompile.lref
+C:\Users\Administrator\source\repos\DemoExam2-main\obj\Debug\App.baml
+C:\Users\Administrator\source\repos\DemoExam2-main\obj\Debug\Menu.baml
+C:\Users\Administrator\source\repos\DemoExam2-main\obj\Debug\Pages\PageAddMaterial.baml
+C:\Users\Administrator\source\repos\DemoExam2-main\obj\Debug\Pages\PageInfo.baml
+C:\Users\Administrator\source\repos\DemoExam2-main\obj\Debug\Pages\PageInfoMaterial.baml
+C:\Users\Administrator\source\repos\DemoExam2-main\obj\Debug\Demo334.g.resources
+C:\Users\Administrator\source\repos\DemoExam2-main\obj\Debug\Demo334.Properties.Resources.resources
+C:\Users\Administrator\source\repos\DemoExam2-main\obj\Debug\Demo334.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\DemoExam2-main\obj\Debug\Demo334.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DemoExam2-main\obj\Debug\Demo334.csproj.CopyComplete
+C:\Users\Administrator\source\repos\DemoExam2-main\obj\Debug\Demo334.exe
+C:\Users\Administrator\source\repos\DemoExam2-main\obj\Debug\Demo334.pdb
+C:\Users\Administrator\source\repos\DemoExam2-main\obj\Debug\Pages\PageEditMaterial.g.cs
+C:\Users\Administrator\source\repos\DemoExam2-main\obj\Debug\Pages\PageEditMaterial.baml
+C:\Users\Administrator\source\repos\DemoExam2-main\obj\Debug\Demo334.csprojAssemblyReference.cache

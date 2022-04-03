@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\obj\Debug\
+C:\Users\Administrator\source\repos\DemoExam2-main\obj\Debug\
 Demo334
 none
 false
 DEBUG;TRACE
-C:\Users\студент\Desktop\учёт сотрудников\DemoExam-main\App.xaml
-41842269136
+C:\Users\Administrator\source\repos\DemoExam2-main\App.xaml
+5-108267875
 2873883811
-28722980541
-18285289583
-Menu.xaml;Pages\PageAddMaterial.xaml;Pages\PageInfo.xaml;Pages\PageInfoMaterial.xaml;
+30739006797
+18-1169344966
+Menu.xaml;Pages\PageAddMaterial.xaml;Pages\PageEditMaterial.xaml;Pages\PageInfo.xaml;Pages\PageInfoMaterial.xaml;
 
-False
+True
 
