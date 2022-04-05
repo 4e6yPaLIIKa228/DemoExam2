@@ -50,7 +50,7 @@ namespace Demo334.Pages
             nList = new List<Material>(list.GetRange(k * 16 - 15, 15));
             mat.ItemsSource = nList;
 
-
+            
             //list = db.Material.Where(c => c.MaterialTypeID == mt.ID).ToList();
             //nList = new List<Material>(list.GetRange(k * 15 - 14, 15));
             //if (nList.Count > k * 15 - 14) mat.ItemsSource = nList;
@@ -130,6 +130,23 @@ namespace Demo334.Pages
         private void BtnEddit_Click(object sender, RoutedEventArgs e)
         {
             FrameWind.frmMain.Navigate(new PageEditMaterial((sender as Button).DataContext as Material));
+            Load();
+        }
+
+        private void BtDell_Click(object sender, RoutedEventArgs e)
+        {
+           
+            int Inv = ((Material)((Control)sender).DataContext).ID;
+            var DelSub = db.Material.Where(m => m.ID == Inv).Single();
+            db.Material.Remove(DelSub);
+            db.SaveChanges();
+            Load();
+            
+        }
+
+        private void BtAdd_Click(object sender, RoutedEventArgs e)
+        {
+            FrameWind.frmMain.Navigate(new PageAddMaterial());
             Load();
         }
     }

@@ -44,6 +44,10 @@
                             </StackPanel>
                             <StackPanel Orientation="Horizontal" >
                                 <Button Content="Изменить" FontFamily="Segoe Print" Name="BtnEddit" Click="BtnEddit_Click" />
+                                <TextBlock Text=" | " FontFamily="Segoe Print"/>
+                                <Button Content="Удалить" FontFamily="Segoe Print" Name="BtDell" Click="BtDell_Click" />
+                                <TextBlock Text=" | " FontFamily="Segoe Print"/>
+                                <Button Content="Добавить" FontFamily="Segoe Print" Name="BtAdd" Click="BtAdd_Click" />
                             </StackPanel>
                         </StackPanel>
                         <StackPanel Margin="300, 0, 0, 0" Orientation="Horizontal">
